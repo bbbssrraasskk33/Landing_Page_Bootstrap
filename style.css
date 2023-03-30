@@ -1,0 +1,16 @@
+/* Body default özellik ata*/
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+
+#enroll .modal-content,
+#enroll .modal-body form {
+  background-color: rgb(58, 58, 58);
+  color: white;
+}
+.map {
+  height: 400px;
+  width: 100%;
+}
